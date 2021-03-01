@@ -10,5 +10,5 @@ Skills & Experiences:
 - 👯 I’m looking to collaborate on fantastic projects in generally cybersecurity field.
 - 💬 You can ask me anything on our community, you should join us.
 - 📫 How to reach me on [Instagram](https://instagram.com/skaya0x01), [Twitter](https://twitter.com/Irmakscat) or [LinkedIn](https://www.linkedin.com/in/s%C3%BCleyman-kaya-041820192/)
-- <!-- - 😄 Pronouns: ... -->
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am a cat.
