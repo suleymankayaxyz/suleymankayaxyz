@@ -3,7 +3,7 @@ Hello, I'm [Süleyman Kaya Irmak'sCat](https://linktree.com/suleymankaya) ! I'm 
 [Click here](https://linktree.com/suleymankaya) to view my website
 
 Skills & Experiences:
-  ✨ Basic Penetration Testing   ✨ Comupter Science    ✨ Linux / UNIX   ✨ Python    ✨ OpenCV   ✨ TensorFlow    ✨ Machine Learning / AI   ✨ C#    ✨ VB.Net    ✨ App Development
+  ✨ Basic Penetration Testing   ✨ Comupter Science    ✨ Linux / UNIX   ✨ Python    ✨ OpenCV   ✨ TensorFlow    ✨ Machine Learning    ✨AI   ✨ C#    ✨ VB.Net    ✨ App Development
 
 - 🔭 I’m currently working on Cybersecurity, Python, Image Proccesing, AI / ML.
 - 🌱 I’m currently learning Penetration Testing, Web App Security, Bug Bounty Hunting.
