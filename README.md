@@ -1,4 +1,4 @@
-### Hi there 👋, I am Süleyman Kaya(Irmak'sCat).
+### Hi there 👋, I am Irmak'sCat Süleyman Kaya.
 Hello, I'm [Süleyman Kaya Irmak'sCat](https://linktree.com/suleymankaya) ! I'm a cybersecurity researcher, developer and student. I'm 15 years old. I love to hack ≧◡≦
 <br>[Click here](https://linktree.com/suleymankaya) to view my website.
 
